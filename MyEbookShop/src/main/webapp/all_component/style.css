@@ -1,0 +1,10 @@
+.bg-custom{
+	backgound-color:#303f9f;
+}
+
+.navbar .nav-item:hover .nav-link{
+	backgound-color:white;
+	color:#303f9f;
+	border-radius:15px;
+	
+}
